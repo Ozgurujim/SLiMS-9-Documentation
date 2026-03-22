@@ -1,6 +1,6 @@
-#### **5.1. Pengenalan Master File**
+#### **7.1. Master File Introduction**
 
-Menu Master File digunakan untuk mengatur hal-hal yang berkaitan dengan manajemen koleksi perpustakaan seperti GMD, penerbit, pengarang, subjek, dan lain-lain. Pengaturan di master file berguna untuk mempermudah kerja pengelola perpustakaan dalam mengolah data bibilografi buku.
+The Master File menu is used to manage library collection management matters such as GMD, publisher, author, subject, and so on. Master file settings are useful for simplifying the library manager's work in processing bibliographic data.
 
 ![](/assets/master file.jpg)
 
